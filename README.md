@@ -6,6 +6,9 @@ date: 2024-02
 
 **_février 2024_**
 
+## Chapitre en ligne
+Tout le contenu du chapitre ci-dessous se trouve également sur ce [livre en ligne](https://rimel-uca.github.io/chapters/2024/Abstraction%20de%20l'utilisation%20de%20LangChain/content).
+
 ## Auteurs
 
 Nous sommes quatre étudiants ingénieurs en dernière année à Polytech Nice Sophia, spécialisés en Architecture Logiciel :
